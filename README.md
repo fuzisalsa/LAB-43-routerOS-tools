@@ -31,12 +31,9 @@ RouterOS Tools adalah alat bantu (utility tools) yang tersedia di MikroTik Route
 
 1. **Packet Sniffer:**        Menangkap paket data di interface tertentu (seperti Wireshark, bisa export ke PCAP).     
 2. **Sniffer Protocols:**     Melihat statistik protokol yang lewat (ICMP, TCP, UDP, dll).                            
-3. **Ping Tool (Advanced):**  Ping ke host dengan pengaturan lebih lengkap dari ping biasa.                            
-
----
-
+3. **Ping Tool (Advanced):**  Ping ke host dengan pengaturan lebih lengkap dari ping biasa.
+   
 # D. Manajemen File dan Backup
-
 
 1. **File:**              Mengelola file di router (upload, download, backup, export, log).      
 2. **Backup / Restore:**  Backup seluruh konfigurasi MikroTik ke file binary (.backup).          
@@ -46,7 +43,6 @@ RouterOS Tools adalah alat bantu (utility tools) yang tersedia di MikroTik Route
 6. **License:**           Menampilkan status lisensi RouterOS.                                   
 
 # E. Tool Keamanan & Akses
-
 
 1. **Password Recovery:**  Untuk pemulihan password (khusus dalam kondisi tertentu).        
 2. **User Management:**    Mengelola user, group, dan hak akses.                       
